@@ -37,4 +37,8 @@ python train_teacher.py
 
 python train_student.py
 
-We conduct all the experiments on an A100 GPU. It takes about 2 hours either to train a teacher model or a student model. After the training of the teacher model, its weights will be saved, which will be utilized to train the student model. Here, we provide a set of weights, allowing you to directly train the student model.
+We conduct all the experiments on an A100 GPU. It takes about 2 hours either to train a teacher model or a student model. After the training of the teacher model, its weights will be saved, which will be utilized to train the student model. 
+
+Here, we provide a set of weights: https://anonfiles.com/tdR0i0y4z6/bias_weights4
+, then you can directly train the student model. 
+
